@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\chubb\source\repos\PreFinalProj\PreFinalProj\source.cpp(57,12): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+  PreFinalProj.vcxproj -> C:\Users\chubb\source\repos\PreFinalProj\x64\Debug\PreFinalProj.exe
